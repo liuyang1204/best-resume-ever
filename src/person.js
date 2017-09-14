@@ -8,7 +8,7 @@ export const PERSON = {
   position: 'Software Developer',
   birth: {
     year: 1991,
-    location: 'Tokyo'
+    location: 'China'
   },
   experience: [{
       company: 'Company A',
@@ -76,11 +76,8 @@ export const PERSON = {
   ],
   skillDescription: 'Also proficient in Adobe Photoshop and Illustrator, grew up bilingual (English and Klingon).',
   contact: {
-    email: 'john.doe@email.com',
-    phone: '0123 456789',
-    street: '1234 Broadway',
-    city: 'New York',
-    website: 'johndoe.com',
-    github: 'johnyD'
+    email: 'liuyang911204@gmail.com',
+    city: 'Tokyo',
+    github: 'liuyang1204'
   }
 };
