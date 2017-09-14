@@ -1,14 +1,14 @@
 /* eslint-disable */
 export const PERSON = {
   name: {
-    first: 'John',
+    first: 'Yang',
     middle: '',
-    last: 'Doe',
+    last: 'Liu',
   },
   position: 'Software Developer',
   birth: {
-    year: 1990,
-    location: 'New York'
+    year: 1991,
+    location: 'Tokyo'
   },
   experience: [{
       company: 'Company A',
